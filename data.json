@@ -1,0 +1,10 @@
+{
+  "Visibility": "VISIBLE",
+  "Title": "Maintenance Notice",
+  "Description": "We'll be right back! Thank You!",
+  "MainTextButton": "Ok",
+  "Cancelable": "false",
+  "CancelButtonText": "Cancel",
+  "DownloadLink": "https://youtu.be/jbQavVP-oas",
+  "Version": "1.25"
+}
