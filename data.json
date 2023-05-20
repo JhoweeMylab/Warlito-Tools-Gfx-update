@@ -1,10 +1,10 @@
 {
   "Visibility": "VISIBLE",
-  "Title": "Test",
-  "Description": "Test Message",
+  "Title": "Check for updates: Visit the official website or app store of the tool to see if a newer version is available. Often, there will be a "Updates" or "Download" section where you can find the latest version.",
+  "Description": "Update now ",
   "MainTextButton": "Update",
   "Cancelable": "true",
   "CancelButtonText": "Cancel",
-  "DownloadLink": "www.example.com",
-  "Version": "1.25"
+  "DownloadLink": "https://play.google.com/store/apps/details?id=com.warlitotools2023.phcare",
+  "Version": "1.26"
 }
