@@ -1,10 +1,10 @@
 {
-"image":"https://i.imgur.com/IX7AHQK.jpg",
- "ref":"nf6Wvb",
- "l1":"https://youtu.be/yVL_16bI4z4",
- "ic1":"https://i.imgur.com/0Xm52O9.png",
- "l2":"https://youtu.be/wIZOTaBNjco",
- "ic2":"https://i.imgur.com/0Xm52O9.png",
- "but1":"Update",
- "but2":"Update"
+  "Visibility": "VISIBLE",
+  "Title": "Test",
+  "Description": "Test Message",
+  "MainTextButton": "Update",
+  "Cancelable": "true",
+  "CancelButtonText": "Cancel",
+  "DownloadLink": "www.example.com",
+  "Version": "1.25"
 }
